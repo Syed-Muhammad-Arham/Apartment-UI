@@ -34,7 +34,7 @@
   border-radius: 50px;
   height: 500px;
   padding: 120px 60px;
-  background-image: url(../images/apartment-building-city-with-copy-space.jpg);
+  background-image: url(./images/apartment-building-city-with-copy-space.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -89,21 +89,21 @@
 .circle-images .bg-img2 {
   width: 200px;
   height: 200px;
-  background-image: url(../images/pexels-photo-1115804.jpeg);
+  background-image: url(./images/pexels-photo-1115804.jpeg);
   background-size: cover;
   border-radius: 100%;
 }
 .circle-images .bg-img1 {
   width: 200px;
   height: 200px;
-  background-image: url(../images/pexels-photo-532568.jpeg);
+  background-image: url(./images/pexels-photo-532568.jpeg);
   background-size: cover;
   border-radius: 100%;
 }
 .circle-images .bg-img3 {
   width: 200px;
   height: 200px;
-  background-image: url(../images/pexels-photo-325185.jpeg);
+  background-image: url(./images/pexels-photo-325185.jpeg);
   background-size: cover;
   border-radius: 100%;
 }
@@ -142,32 +142,32 @@ p {
   margin: 40px 0px 0 50px;
 }
 .card .box1 {
-  background-image: url(../images/1.jpeg);
+  background-image: url(./images/1.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .card .box2 {
-  background-image: url(../images/24135.jpg);
+  background-image: url(./images/24135.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .card .box3 {
-  background-image: url(../images/3.jpeg);
+  background-image: url(./images/3.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .card .box4 {
-  background-image: url(../images/4.jpeg);
+  background-image: url(./images/4.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .card .box5 {
-  background-image: url(../images/5.jpeg);
+  background-image: url(./images/5.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .card .box6 {
-  background-image: url(../images/6.jpeg);
+  background-image: url(./images/6.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -183,7 +183,7 @@ p {
   border-radius: 20px;
 }
 .card .box .box7 {
-  background-image: url(../images/7.jpeg);
+  background-image: url(./images/7.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 20px;
@@ -192,7 +192,7 @@ p {
   margin-bottom: 20px;
 }
 .card .box .box8 {
-  background-image: url(../images/8.jpg);
+  background-image: url(./images/8.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 20px;
@@ -201,7 +201,7 @@ p {
   margin-bottom: 20px;
 }
 .card .box .box9 {
-  background-image: url(../images/9.jpg);
+  background-image: url(./images/9.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 20px;
@@ -223,16 +223,16 @@ p {
   padding: 8px;
 }
 .both .right {
-  background-image: url(../images/pexels-freestockpro-7599735.jpg);
+  background-image: url(./images/pexels-freestockpro-7599735.jpg);
   width: 50%;
   background-size: cover;
   border-radius: 50px;
 }
 .both .right1 {
-  background-image: url(../images/2151011294.jpg);
+  background-image: url(./images/2151011294.jpg);
 }
 .both .right2 {
-  background-image: url(../images/8.jpg);
+  background-image: url(./images/8.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -297,26 +297,26 @@ p {
 .company .c-box .img1 {
   width: 60%;
   height: 60%;
-  background-image: url(../images/c1.png);
+  background-image: url(./images/c1.png);
   background-size: cover;
 }
 .company .c-box .img2 {
   width: 60%;
   height: 60%;
-  background-image: url(../images/c2.png);
+  background-image: url(./images/c2.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .company .c-box .img3 {
   width: 60%;
   height: 60%;
-  background-image: url(../images/c3.png);
+  background-image: url(./images/c3.png);
   background-size: cover;
 }
 .company .c-box .img4 {
   width: 60%;
   height: 60%;
-  background-image: url(../images/c4.png);
+  background-image: url(./images/c4.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -325,7 +325,7 @@ p {
   height: 40px;
   margin-top: 70px;
   margin-left: 40px;
-  background-image: url(../images/download.png);
+  background-image: url(./images/download.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
